@@ -15,8 +15,8 @@ Description: DNS Zone abstraction Python module
  Easyzone is a package to manage the common record types of a zone file,
  including SOA records.
  The main features include:
- - A high-level abstraction on top of dnspython.
- - Load a zone file into objects.
- - Modify/add/delete zone/record objects.
- - Save back to zone file.
- - Auto-update serial (if necessary).
+  - A high-level abstraction on top of dnspython.
+  - Load a zone file into objects.
+  - Modify/add/delete zone/record objects.
+  - Save back to zone file.
+  - Auto-update serial (if necessary).
