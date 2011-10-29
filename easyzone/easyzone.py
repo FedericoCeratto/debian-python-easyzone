@@ -9,10 +9,8 @@ for common zone file manipulation use cases.
 '''
 
 __author__ = 'Chris Miles'
-__copyright__ = '(c) Chris Miles 2007'
-__id__ = '$Id: easyzone.py 804 2008-04-29 01:45:15Z chris $'
-__url__ = '$URL: https://hugo.thoh.net/svn/psychofx/Projects/Python/easyzone/trunk/easyzone/easyzone.py $'
-__version__ = '1.2.1'
+__copyright__ = '(c) Chris Miles 2007-2011'
+__version__ = '1.2.2'
 
 
 # ---- Imports ----
@@ -304,7 +302,7 @@ class Zone(object):
         
         if not filename:
             filename = self.filename
-        self._zone.to_file(filename)
+        self._zone.to_file(filename, relativize=False)
     
 
 

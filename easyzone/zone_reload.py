@@ -26,8 +26,8 @@ Example::
 
 __author__ = 'Chris Miles'
 __copyright__ = '(c) Chris Miles 2007'
-__id__ = '$Id: zone_reload.py 800 2008-04-24 14:59:25Z chris $'
-__url__ = '$URL: https://hugo.thoh.net/svn/psychofx/Projects/Python/easyzone/trunk/easyzone/zone_reload.py $'
+__id__ = '$Id$'
+__url__ = '$URL$'
 __version__ = '1.0'
 
 

@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
 Name: easyzone
-Version: 1.2.1
+Version: 1.2.2
 Summary: Easy Zone - DNS Zone abstraction module
-Home-page: UNKNOWN
+Home-page: http://www.psychofx.com/easyzone/
 Author: Chris Miles
 Author-email: miles.chris@gmail.com
 License: MIT
@@ -16,6 +16,11 @@ Description: easyzone
         zone file, including SOA records.  This module sits on top of
         the dnspython package and provides a higher level abstraction
         for common zone file manipulation use cases.
+        
+        http://www.psychofx.com/easyzone/
+        http://pypi.python.org/pypi/easyzone
+        https://bitbucket.org/chrismiles/easyzone/
+        
         
         Main features:
         

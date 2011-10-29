@@ -11,6 +11,3 @@ easyzone.egg-info/entry_points.txt
 easyzone.egg-info/not-zip-safe
 easyzone.egg-info/requires.txt
 easyzone.egg-info/top_level.txt
-tests/__init__.py
-tests/easyzone_test.py
-tests/files/example.com
