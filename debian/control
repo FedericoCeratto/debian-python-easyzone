@@ -15,7 +15,9 @@ Vcs-Browser: http://git.debian.org/?p=collab-maint/python-easyzone.git;a=summary
 
 Package: python-easyzone
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends}, python-dnspython
+Depends: ${misc:Depends}
+ , ${python:Depends}
+ , python-dnspython
 Description: DNS Zone abstraction Python module
  This module helps managing the common record types of a zone file,
  including SOA records.
