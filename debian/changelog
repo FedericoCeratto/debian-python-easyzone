@@ -1,3 +1,9 @@
+easyzone (1.2.2-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Federico Ceratto <federico.ceratto@gmail.com>  Sat, 29 Oct 2011 17:35:08 +0100
+
 easyzone (1.2.1-1) unstable; urgency=low
 
   * Initial release (Closes: #576254)
