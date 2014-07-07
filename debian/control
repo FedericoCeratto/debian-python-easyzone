@@ -2,7 +2,6 @@ Source: easyzone
 Section: python
 Priority: optional
 Maintainer: Federico Ceratto <federico.ceratto@gmail.com>
-DM-Upload-Allowed: yes
 Build-Depends: debhelper (>= 8.0.0~)
  , python-setuptools
  , python-dnspython
