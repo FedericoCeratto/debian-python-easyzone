@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0~)
  , python-setuptools
  , python-dnspython
  , python-all (>= 2.6.6-3~)
-Standards-Version: 3.9.2
+Standards-Version: 3.9.5
 X-Python-Version: >= 2.5
 Homepage: http://www.psychofx.com/easyzone/
 Vcs-Git: git://git.debian.org/collab-maint/python-easyzone.git
